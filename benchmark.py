@@ -1,3 +1,5 @@
+## NB: Authorship of this file is credited to @dmfrpro
+
 from statistics import mean
 
 import subprocess
